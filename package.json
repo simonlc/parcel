@@ -15,7 +15,7 @@
     "index.js"
   ],
   "peerDependencies": {
-    "babel-core": "*",
+    "babel-core": "*"
   },
   "dependencies": {
     "ansi-to-html": "^0.6.4",
