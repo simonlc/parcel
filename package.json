@@ -14,10 +14,12 @@
     "src/",
     "index.js"
   ],
+  "peerDependencies": {
+    "babel-core": "*",
+  },
   "dependencies": {
     "ansi-to-html": "^0.6.4",
     "babel-code-frame": "^6.26.0",
-    "babel-core": "^6.25.0",
     "babel-generator": "^6.25.0",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
